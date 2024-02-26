@@ -26,6 +26,9 @@ Scripts: Contains Excel scripts used for data cleaning and analysis.
 
 Visualisations: Stores PowerBI visual outputs for easy access.
 
+![Capture](https://github.com/IlyasHassan1/PowerBI-Weather-Data/assets/156099554/82d60d35-be9c-4b72-a2f9-c11580e30667)
+
+
 ## Contribute 🚀
 
 If you discover issues, have suggestions, or wish to contribute, feel free to open an issue or pull request. Your collaboration is valued!
